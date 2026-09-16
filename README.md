@@ -129,6 +129,7 @@ Lambda Worker
 |  💳 | **Mastercard**            | Software Engineering Intern · 2× |
 |  🟢 | **Credit Karma / Intuit** | Software Engineering Intern      |
 |  💻 | **All Star Code**         | Summer Teaching Assistant        |
+|  🖥️ | **Google**                | Code Next Student                |
 
 </div>
 
