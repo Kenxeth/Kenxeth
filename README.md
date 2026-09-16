@@ -9,8 +9,8 @@
   and figuring out how things work behind the scenes.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/kennethjgonzalez/))
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kennethgonzalez067@gmail.com)
 
 </div>
 
